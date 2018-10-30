@@ -1,2 +1,1 @@
-# Spreadtrum-sc7731-sc8831-Recovery-DTB-Touch-Fix-
-Some Edition on Spreadtrum DTB for getting Touch Support in recovery_MODE....
+## Experimental.. BTW those changes needed to Non touch recovery dtb..
